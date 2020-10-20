@@ -1,4 +1,4 @@
-# This is an outdated copy of Molkobain's Datacenter Viwe.  Please don't use it, as Molkobain did a great work embedding (in a much better way, of course !) my small changes.
+# This is an outdated copy of Molkobain's Datacenter View.  Please don't use it, as Molkobain did a great work embedding (in a much better way, of course !) my small changes.
 
 Thank you :)
 
