@@ -1,3 +1,7 @@
+# This is an outdated copy of Molkobain's Datacenter Viwe.  Please don't use it, as Molkobain did a great work embedding (in a much better way, of course !) my small changes.
+
+Thank you :)
+
 👋 [Available on Molkobain I/O](https://www.molkobain.com/product/datacenter-view/)
 
 # iTop extension: molkobain-datacenter-view
